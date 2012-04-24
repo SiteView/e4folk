@@ -53,7 +53,7 @@ public class ListView {
 		// Hack to select Kai Toedter at startup
 		int index = 0;
 		for (Contact contact : data) {
-			if ("Kai".equalsIgnoreCase(contact.getFirstName()) && "Tödter".equalsIgnoreCase(contact.getLastName())) {
+			if ("Kai".equalsIgnoreCase(contact.getFirstName()) ) {
 				break;
 			}
 			index++;

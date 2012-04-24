@@ -31,6 +31,7 @@
    <plugins>
       <plugin id="at.bestsolution.efxclipse.runtime.osgi" fragment="true"/>
       <plugin id="com.ibm.icu"/>
+      <plugin id="com.siteview.kernel.core"/>
       <plugin id="com.toedter.e4.demo.contacts.generic"/>
       <plugin id="com.toedter.e4.demo.contacts.swing"/>
       <plugin id="com.toedter.e4.ui.workbench.addons"/>
@@ -73,6 +74,7 @@
       <plugin id="org.eclipse.equinox.util"/>
       <plugin id="org.eclipse.osgi"/>
       <plugin id="org.eclipse.osgi.services"/>
+      <plugin id="org.eclipse.osgi.util"/>
    </plugins>
 
 
