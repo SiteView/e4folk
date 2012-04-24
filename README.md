@@ -9,7 +9,7 @@ for the Eclipse 4 Application platform. I provide engines for
 Setup
 -----
 * Install JavaFX (SDK or Runtime) for your platform 
-* Install e(fx)clipse for your platform, see http://efxclipse.org: 
+* Install e(fx)clipse for your platform, see http://efxclipse.org/install.html#for-the-adventurous: 
 ** install eclipse 4.2M6 SDK
 ** install http://download.eclipse.org/modeling/tmf/xtext/updates/composite/latest/ into 4.2m6
 ** install http://www.efxclipse.org/p2-repos/releases/latest/ into 4.2m6
